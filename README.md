@@ -7,3 +7,4 @@ It uses litle-api2.js method which does not contain its own jquery distribution.
 Changelog
 ============
 0.0.3 return promise for sendToLitle call.
+0.0.4 support for ie8 onreadystatechange
